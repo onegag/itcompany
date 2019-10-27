@@ -1,0 +1,5 @@
+ Bill Gates 100_000 25/12/1972 Developer Java Lead
+Linus  Torvalds 570_000 01/02/1997 Project Manager 4
+Donald  Knuth   790_999 01/2/1968 Tester Automation Lead
+
+
